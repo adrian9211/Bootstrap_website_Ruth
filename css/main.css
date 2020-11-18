@@ -31,7 +31,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 
 /*header style*/
 .header{
-	height: 50vh;
+	height: 30vh;
 	position: relative;
 	background-image: url("../images/headerback.jpg");
 	background-size: cover;
