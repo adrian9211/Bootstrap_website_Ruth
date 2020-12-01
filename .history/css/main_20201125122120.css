@@ -8,36 +8,7 @@ body{
 html,h1,h2,h3,h4,h5,h6,a{
 	font-family: "Raleway";
 }
-.navbar{
-	background:#F97300;
-}
-.nav-link , .navbar-brand{
-	color: #fff;
-	cursor: pointer;
-}
-.nav-link{
-	margin-right: 1em !important;
-}
-.nav-link:hover{
-	background: #ffffff;
-	color: #f97300;
-}
-.navbar-collapse{
- justify-content: flex-end;
-}
 
-/* .navbar-toggler{
-  background:#fff !important;
-} */
-
-/*header style*/
-.header{
-	/* height: 40vh; */
-	position: relative;
-	background-image: url('../images/headerback.jpg');
-	background-size: cover;
-	background-position: center;
-}
 .overlay{
 	position: absolute;
 	min-height: 100%;

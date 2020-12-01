@@ -12,29 +12,28 @@ html,h1,h2,h3,h4,h5,h6,a{
 	background:#F97300;
 }
 .nav-link , .navbar-brand{
-	color: #fff;
+	color: #f4f4f4;
 	cursor: pointer;
 }
 .nav-link{
 	margin-right: 1em !important;
 }
 .nav-link:hover{
-	background: #ffffff;
+	background: #f4f4f4;
 	color: #f97300;
 }
 .navbar-collapse{
  justify-content: flex-end;
 }
-
-/* .navbar-toggler{
+.navbar-toggler{
   background:#fff !important;
-} */
+}
 
 /*header style*/
 .header{
-	/* height: 40vh; */
 	position: relative;
 	background-image: url('../images/headerback.jpg');
+
 	background-size: cover;
 	background-position: center;
 }
@@ -170,7 +169,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .team .item:hover .des{
 	height: 100%;
-	background:#f973007d;
+	background:#f97300;
     position: absolute;
 	width: 89%;
 	padding: 5em;
